@@ -1,2 +1,3 @@
 #!/bin/bash
 echo "This is  a first project1.1.2333gtraftsfxtskjjhdj"
+sudo apt-get update
